@@ -29,6 +29,8 @@
 [<img align="left" alt="Adobe Illustrator CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />](https://www.adobe.com/products/illustrator.html)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
 
+<br/>
+
 ---
 [![Tomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrod10)](https://github.com/anuraghazra/github-readme-stats)
 
