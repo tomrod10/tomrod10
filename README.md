@@ -28,3 +28,12 @@
 [<img align="left" alt="Adobe Photoshop CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />](https://www.adobe.com/products/photoshop/landpa.html?sdid=KKQIN&mv=search&kw=photoshop&ef_id=Cj0KCQjw24qHBhCnARIsAPbdtlLkY-lLW7SpsGqwHXe0r9yz2fuTv52g7RTZO_dC8lFiT9lQTTlkISQaAqYbEALw_wcB:G:s&s_kwcid=AL!3085!3!522504775617!e!!g!!adobe%20photoshop!1712238394!67643541820&gclid=Cj0KCQjw24qHBhCnARIsAPbdtlLkY-lLW7SpsGqwHXe0r9yz2fuTv52g7RTZO_dC8lFiT9lQTTlkISQaAqYbEALw_wcB)
 [<img align="left" alt="Adobe Illustrator CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />](https://www.adobe.com/products/illustrator.html)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
+
+---
+[![Tomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrod10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+Instead of Blog Posts, I can add a contributions section
+with all the open source projects that I've contributed to
+-->
