@@ -9,7 +9,7 @@
 - 🥅  2021 Goals: Learn more and Contribute to Open Source projects
 
 ## Let's Connect!
-[<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomas-rodriguez-al/)
+[<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomas-rodriguez-al/)
 
 <!--
 **tomrod10/tomrod10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
