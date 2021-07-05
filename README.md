@@ -4,8 +4,8 @@
 - 🔎  I’m looking for opportunities to grow and contribute
 - 🌱  I’m currently learning:
   - Data Structures & Algorithms
-  - Javascript & React under the hood
-- 🥅  2021 Goals: Learn more and Contribute to Open Source projects
+  - JavaScript & React under the hood
+- 🥅  2021 Goals: Learn more and contribute to Open Source projects
 - 🧑🏻‍💻  Fun fact: I like to design posters and play video games on my spare time
 
 ## Let's Connect!
