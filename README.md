@@ -32,7 +32,7 @@
 <br/>
 
 ---
-[![Tomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrod10)](https://github.com/anuraghazra/github-readme-stats)
+[![Tomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrod10&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
