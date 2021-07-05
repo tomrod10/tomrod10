@@ -5,8 +5,8 @@
 - 🌱  I’m currently learning:
   - Data Structures & Algorithms
   - Javascript & React under the hood
-- 🧑🏻‍💻  Fun fact: I like to design posters and play video games on my spare time
 - 🥅  2021 Goals: Learn more and Contribute to Open Source projects
+- 🧑🏻‍💻  Fun fact: I like to design posters and play video games on my spare time
 
 ## Let's Connect!
 [<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomas-rodriguez-al/)
