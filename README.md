@@ -8,19 +8,12 @@
 - 🧑🏻‍💻  Fun fact: I like to design posters and play video games on my spare time
 - 🥅  2021 Goals: Learn more and Contribute to Open Source projects
 
+## Let's Connect!
+[<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" source="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **tomrod10/tomrod10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m looking for opportunities to grow and contribute
-- 🌱 I’m currently learning:
-  - Javascript under the hood
-  - React under the hood
-  - Data Structures & Algorithms
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: I'm fluent in English and Spanish
-- 🔥 I'm currently learning Data Structure & Algorithms
-- 🥅  2021 Goals: Learn more and
 
 -->
