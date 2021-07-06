@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer who is passionate about Typography and Design!
 - 🔎  I’m looking for opportunities to grow and contribute
-- 🌱  I’m currently learning:
+- 🌱  I’m currently mastering:
   - Data Structures & Algorithms
   - JavaScript & React under the hood
 - 🥅  2021 Goals: Learn more and contribute to Open Source projects
