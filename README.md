@@ -1,12 +1,13 @@
 ## Hey, how's it going? I'm Tomas! 👋
 
 ### I'm a Software Engineer who is passionate about Typography and Design!
-- I’m currently mastering:
-  - Data Structures & Algorithms
-  - JavaScript & React under the hood
+- I’m currently learning:
+  - Python
+  - TypeScript
+  - React under the hood
 - I’m looking for opportunities to grow and contribute
-- 2021 Goals: Learn more and contribute to Open Source projects
-- Fun fact: I like to design posters and play video games in my spare time
+- 2023 Goals: Finish and deploy my personal projects!
+- Fun fact: I like to boulder and play video games in my spare time
 
 ## Let's Connect!
 [<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomas-rodriguez-al/)
