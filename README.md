@@ -1,6 +1,6 @@
 ## Hey, how's it going? I'm Tomas! 👋
 
-### I'm a Software Engineer who is passionate about Typography and Design!
+### I'm a Software Engineer I like to learn and build things 😎
 - Always seeking growth and opportunities to contribute!
 - Currently learning:
   - Python
