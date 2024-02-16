@@ -1,13 +1,15 @@
 ## Hey, how's it going? I'm Tomas! 👋
 
 ### I'm a Software Engineer who is passionate about Typography and Design!
-- I’m currently learning:
+- Always seeking growth and opportunities to contribute!
+- Currently learning:
   - Python
-  - TypeScript
-  - React under the hood
-- I’m looking for opportunities to grow and contribute
-- 2023 Goals: Finish and deploy my personal projects!
-- Fun fact: I like to boulder and play video games in my spare time
+  - How Operating Systems work
+- 2024 Goals:
+  - Learn HTMX and Go
+  - Start learning C programming language
+  - Finish and deploy Tlog, a task-logging app with a PDF export feature!
+- Fun fact: I like to read and play video games in my spare time
 
 ## Let's Connect!
 [<img align="left" alt="Tomas Rodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomas-rodriguez-al/)
@@ -38,5 +40,5 @@
 
 <!--
 Instead of Blog Posts, I can add a contributions section
-with all the open source projects that I've contributed to
+with all the open-source projects that I've contributed to
 -->
