@@ -4,7 +4,7 @@
 - Always seeking growth and opportunities to contribute!
 - Currently learning:
   - Python
-  - How Operating Systems work
+  - Deep dive on how computers really work
 - 2024 Goals:
   - Learn HTMX and Go
   - Start learning C programming language
