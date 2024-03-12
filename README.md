@@ -8,7 +8,7 @@
 - Fun fact: I saw Cristiano Ronaldo score a freekick at the International Champions Cup Miami in 2013
 <br/>
 <details>
-  <summary>Stats</summary>
+  <summary>Stats 📈</summary>
 <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=tomrod10&count_private=true&hide_border=true&show_icons=true&theme=github_dark_dimmed">
 <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=tomrod10&layout=compact&theme=github_dark_dimmed&hide_border=true&count_private=true&langs_count=5&hide=Makefile,Tcl,Tex">
 </details>
