@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,typescript,python,javascript,react,linux,bash,github,neovim,git,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,react,linux,bash,github,neovim,git,mysql,postgresql" />
 </p>
 
 - Seeking simplicity in a complex world
