@@ -1,7 +1,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,typescript,javascript,react,linux,bash,docker,github,git,mysql,postgresql" />
 </p>
--Interested in systems, hardware and tooling!
+<ul>
+  <li>Interested in systems, hardware and tooling!</li>
+</ul>
 <br/>
 <details>
   <summary>Stats 📈</summary>
