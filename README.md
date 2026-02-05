@@ -1,15 +1,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,typescript,javascript,react,linux,bash,docker,github,git,mysql,postgresql" />
 </p>
-
-- Seeking simplicity in a complex world
-- Heavy interest in climate 🌎, health 🫀, and education 📚
-- Fun fact: I saw Cristiano Ronaldo score a freekick at the International Champions Cup Miami in 2013
+- Interested in systems, hardware and tooling!
 <br/>
 <details>
   <summary>Stats 📈</summary>
 <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=tomrod10&count_private=true&hide_border=true&show_icons=true&theme=github_dark_dimmed">
-<img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=tomrod10&layout=compact&theme=github_dark_dimmed&hide_border=true&count_private=true&langs_count=5&hide=Makefile,Tcl,Tex">
 </details>
 <!--
 Instead of Blog Posts, I can add a contributions section
