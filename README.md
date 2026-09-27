@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,typescript,javascript,react,linux,bash,docker,github,git,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,typescript,javascript,react,linux,bash,docker,github,git,mysql,postgresql" />
 </p>
 Interested in systems, hardware and tooling!
 <br/>
