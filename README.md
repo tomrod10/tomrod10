@@ -5,7 +5,7 @@ Interested in systems, hardware and tooling!
 <br/>
 <br/>
 <details>
-  <summary>Stats 📈</summary>
+  <!-- <summary>Stats 📈</summary> -->
 <!--
 <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=tomrod10&count_private=true&hide_border=true&show_icons=true&theme=github_dark_dimmed">
 -->
